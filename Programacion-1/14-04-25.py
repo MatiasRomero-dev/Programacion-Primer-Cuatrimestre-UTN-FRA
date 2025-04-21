@@ -14,22 +14,22 @@
 
 # EJERCICIO 1
 altura = int(input("Ingresa tu altura: "))
-if altura <= 159:
+if altura < 160:
     print("Su posicion es: BASE")
-elif altura >= 160 and altura <= 179:
+elif altura <= 179:
     print("Su posicon es: ESCOLTA")
-elif altura >= 180 and altura <= 199:
+elif altura <= 199:
     print("Su posicon es: ALERO")
 elif altura >= 200:
     print("Su posicion es: ALA-PIVOT")
 
 # EJERCICIO 2 
-nota = int(input("Ingresa tu nota: "))
+#nota = int(input("Ingresa tu nota: "))
 
-if nota >= 6 and nota <= 10:
-    print(f"Promocionaste, tu nota es: {nota}")
-elif nota >= 4 and nota < 6:
-    print(f"Aprobaste, tu nota es: {nota}")
-elif nota >= 1 and nota < 4:
-    print(f"Desaprobaste, tu nota es: {nota}")
+#if nota >= 6 and nota <= 10:
+    #print(f"Promocionaste, tu nota es: {nota}")
+#elif nota >= 4 and nota < 6:
+    #print(f"Aprobaste, tu nota es: {nota}")
+#elif nota >= 1 and nota < 4:
+    #print(f"Desaprobaste, tu nota es: {nota}")
 

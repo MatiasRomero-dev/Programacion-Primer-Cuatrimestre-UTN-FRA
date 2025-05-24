@@ -2,11 +2,6 @@ lista = [64, 34, 25, 12, 22, 11, 90]
 
 n = len(lista)
 i = 0
-
-lista = [64, 34, 25, 12, 22, 11, 90]
-
-n = len(lista)
-i = 0
 for a in range(len(lista) - 1):
     intercambiado = False  # Bandera para saber si hubo intercambio
     j = 0

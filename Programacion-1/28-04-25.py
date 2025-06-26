@@ -61,7 +61,7 @@ while True:
 # Calcular la suma de los números positivos y el producto de los negativos.
 # (while, acumulador += acumulador *=)
 acumulador_positivo = 0
-acumulador_negativo = 1
+acumulador_negativo = 1 #arreglar sacar TRY EXCEPT
 print("\nIngrese FIN para salir")
 while True:
     numero = input("Ingrese su numero: ")

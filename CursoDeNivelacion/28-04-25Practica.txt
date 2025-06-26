@@ -1,0 +1,20 @@
+Características principales de un contador:
+Almacena un número entero: Generalmente se usa para contar repeticiones, eventos, posiciones, etc.
+
+Operaciones básicas:
+Incrementar: Aumentar su valor (ej. contador = contador + 1 o contador++).
+Decrementar: Disminuir su valor (ej. contador = contador - 1 o contador--).
+Resetear: Volver a un valor inicial (ej. contador = 0).
+
+Un acumulador es una variable que almacena la suma (o producto, concatenación, etc.)
+de valores variables durante la ejecución de un programa. A diferencia de un contador 
+(que suele incrementarse o decrementarse en valores fijos, como +1), el acumulador guarda el
+resultado parcial de operaciones con valores que pueden cambiar.
+
+Características principales de un acumulador:
+Almacena un resultado acumulado , números, cadenas, o cualquier dato que se pueda "sumar".
+Operaciones comunes:
+Suma acumulativa: acumulador = acumulador + valor.
+Producto acumulativo: acumulador = acumulador * valor.
+Concatenación: En cadenas de texto, acumulador = acumulador + texto_nuevo.
+Inicialización: Debe empezar con un valor base (ej. 0 para sumas, 1 para productos, "" para cadenas).

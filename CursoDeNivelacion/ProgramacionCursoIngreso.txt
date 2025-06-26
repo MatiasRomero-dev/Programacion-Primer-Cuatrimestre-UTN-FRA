@@ -1,0 +1,18 @@
+¿Cómo funciona un programa de computadora?
+
+Un programa hace que una computadora sea usable. Sin un programa, una computadora, incluso la más poderosa, no es más que un objeto. Del mismo modo, sin un reproductor, un piano no es más que una caja de madera.
+
+Algoritmo: Es un conjunto de pasos lógicos y estructurados que nos permiten dar solución a un problema. (ej.receta de cocina).
+Tiene que ser, finito, ordenado, preciso y definido.
+Una forma de representar Algoritmos son los Diagrama de flujo.
+
+Estructura de un Algoritmo
+
+Todo algoritmo consta de tres secciones principales:
+
+Entrada: Es la introducción de datos para ser transformados.
+
+Proceso: Es el conjunto de operaciones a realizar para dar solución al problema.
+
+Salida: Son los resultados obtenidos a través del proceso.
+
